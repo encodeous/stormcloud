@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\stormclient\stormclient.csproj" />
     <ProjectReference Include="..\stormserver\stormserver.csproj" />
     <ProjectReference Include="..\stormutils\stormutils.csproj" />
   </ItemGroup>
